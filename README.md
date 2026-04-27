@@ -1,8 +1,8 @@
-## PROJECT CONTEXT
+## PROJECT MILESTONE 2
 
-- **Course**: CS417 — Large Language Models (Spring 2026)
+- **Course**: CS417 Large Language Models (Spring 2026)
 - **Project**: TALASH (Talent Acquisition & Learning Automation for Smart Hiring)
-- **Milestone**: 2 — Core Extraction, Analysis Pipeline, Intermediate Web App
+- **Milestone 2**: Core Extraction, Analysis Pipeline, Intermediate Web App
 - **Team**: BSDS-2K23
 - **Instructor**: Prof. Dr. Muhammad Moazam Fraz
 
